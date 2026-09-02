@@ -1,5 +1,6 @@
 # GuessNumberC
 **Algorithm**
+```
 main(): 
     make a 20-character array userName
     make an integer called guesser
@@ -29,3 +30,4 @@ main():
           tell them "Yikes, that is not good."
         else turns = 7 
           tell them "that average. not bad"
+```
